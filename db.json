@@ -6,9 +6,9 @@
       "release_year": 1980,
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0,
-      "movie": null
+      "movie": "10"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "release_year": 1981,
       "description": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
       "image": "./assets/f13-2.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0,
       "movie": null
     },
@@ -26,7 +26,7 @@
       "release_year": 1980,
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -35,7 +35,7 @@
       "release_year": 1984,
       "description": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
       "image": "./assets/f13-finalchapter.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -53,7 +53,7 @@
       "release_year": 1980,
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -71,7 +71,7 @@
       "release_year": 1989,
       "description": "A group of students on a graduation cruise bound for Manhattan soon realize they've got a stowaway aboard the ship: serial killer Jason Voorhees.",
       "image": "./assets/f13-manhattan.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -89,7 +89,7 @@
       "release_year": 1993,
       "description": "Jason Voorhees, the living, breathing essence of evil, is back for one fierce, final fling! Tracked down and blown to bits by a special FBI task force, everyone now assumes that he's finally dead. But everybody assumes wrong. Jason has been reborn with the bone-chilling ability to assume the identity of anyone he touches. The terrifying truth is that he could be anywhere, or anybody. In this shocking, blood-soaked finale to Jason's carnage-ridden reign of terror, the horrible secret of his unstoppable killing instinct is finally revealed. And once you know the chilling facts, you'll see him in your nightmares! And he'll see you in hell!",
       "image": "./assets/f13-hell.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -107,7 +107,7 @@
       "release_year": 1981,
       "description": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
       "image": "./assets/f13-2.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     }
   ]
